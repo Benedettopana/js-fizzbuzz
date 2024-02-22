@@ -18,7 +18,7 @@ Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot f
 1. Faccio stampare in console "Fizz" invece del numero.
 1. Creo un if che controlli se il mio contatore dei cicli sia divisibile per 5.
 1. Faccio stampare in console "Buzz" invece del numero.
-1. Non annidando le `if` se le condizioni saranno entrambi vere stamperò in console sia "Fizz" che "Buzz".
+1. Annidando le `if` se le condizioni saranno entrambi vere stamperò in console sia "Fizz" che "Buzz".
 
 
 ## BONUS 1
