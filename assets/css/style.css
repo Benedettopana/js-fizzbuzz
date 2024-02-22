@@ -12,11 +12,10 @@ body{
   /* border: 1px solid black; */
   margin: 3px;
   color: white;
+  box-shadow: 10px 10px 24px 3px rgba(0, 0, 0, 0.6);
 }
 
 /* PALETTE */
-
-
 
 .body-color { 
 	background: rgba(254, 190, 126, .2); 
