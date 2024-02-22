@@ -1,3 +1,40 @@
 body{
   font-family: "Montserrat", sans-serif;
 }
+
+.box{
+  width: 94px;
+  height: 94px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: cadetblue;
+  border: 1.5px solid black;
+  margin: 3px;
+  color: white;
+}
+
+/* PALETTE */
+
+
+
+.body-color { 
+	background: rgba(254, 190, 126, .2); 
+}
+
+.first-color { 
+	background: #57385c; 
+}
+	
+.second-color { 
+	background: #a75265; 
+}
+
+.third-color { 
+	background: #ec7263; 
+}
+
+.fourth-color { 
+	background: #febe7e; 
+}
+
